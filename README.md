@@ -1,8 +1,3 @@
-Here's a well-structured README template for your GitHub repository:
-
-
----
-
 Pizza Sales SQL Analysis 🍕💻
 
 📌 Project Overview
